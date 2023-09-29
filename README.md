@@ -4,7 +4,8 @@ asychronous yelp scraper
 ## Relatively quick scraper
 
 # If you found this scraper helpful:
-Do you fancy a particular person?
+- Do you fancy a particular person? 
+- Let me buy you a coffee
 
 ## Instant Dalgona
 
