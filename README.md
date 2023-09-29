@@ -23,3 +23,6 @@ Do you fancy a particular person?
 ## Public Data Release
 - Lowers the bandwidth to yelp for scrapers
 - Share the recipe!
+
+## Yelp Message Bot TBA
+- Go through every yelp page listed and sends a message to the business!
